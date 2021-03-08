@@ -1,4 +1,4 @@
-/*
+/**
 * Colores
 */
 body {
@@ -26,13 +26,14 @@ body {
 
 .ejemplo-code-sandbox {
   margin-top: 10px;
+  margin-left: 5px;
 }
 
 /*
 * Botones
 */
 .b-radius {
-  border-radius: 25px;
+  border-radius: 20px;
 }
 
 .bannerrandom {
@@ -41,8 +42,13 @@ body {
 
 .banner2 {
   font-size: 1.1rem;
+  color: red;
 }
+<<<<<<< Codesandbox
+.pruebadeprueba
+=======
 
+>>>>>>> GitHub
 /*
 * Iconos
 */
