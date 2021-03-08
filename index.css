@@ -24,9 +24,24 @@ body {
   color: var(--yellow);
 }
 
+.ejemplo-code-sandbox {
+  margin-top: 10px;
+}
+
 /*
 * Botones
 */
+.b-radius {
+  border-radius: 25px;
+}
+
+.bannerrandom {
+  background-color: var(--celeste);
+}
+
+.banner2 {
+  font-size: 1.1rem;
+}
 
 /*
 * Iconos
