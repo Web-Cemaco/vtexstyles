@@ -20,6 +20,9 @@ body {
 /*
 * Headings
 */
+.cllas {
+  color: var(--yellow);
+}
 
 /*
 * Botones
@@ -35,6 +38,11 @@ body {
 /*campaña1*/
 /*campaña2*/
 /*campaña3*/
+
+/*
+* Landing
+*/
+/*landing1*/
 
 /*
 * Media queries
