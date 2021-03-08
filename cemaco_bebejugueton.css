@@ -1,6 +1,6 @@
 /*Banner top*/
 .landing--bebejugueton .mainimage-bb {
-  background-image: url(https://sfo2.digitaloceanspaces.com/cemacogt/vtex/2021/img/bebe/home/17feb/17feb_bannerprincipal.jpg);
+  background-image: url(https://sfo2.digitaloceanspaces.com/cemacogt/vtex/2021/img/bebe/home/24feb/24feb_sliderverano.jpg);
   min-height: 378px;
   background-size: cover;
   display: flex;
@@ -12,6 +12,7 @@
 /****************** Spiff de 3 banners Entrega a toda Guatemala, Cuidamos tu salud y compra en linea ****************************************/
 .bannermedidas {
   padding: 0 0 10px;
+  margin: 40px 0 0;
 }
 .bannermedidas img {
   width: 100%;
@@ -37,7 +38,7 @@
 
 @media (max-width: 768px) {
   .landing--bebejugueton .mainimage-bb {
-    background-image: url(https://sfo2.digitaloceanspaces.com/cemacogt/vtex/2021/img/bebe/home/17feb/17feb_bannerprincipalmob.jpg);
+    background-image: url(https://sfo2.digitaloceanspaces.com/cemacogt/vtex/2021/img/bebe/home/24feb/24feb_slidervernomobil.jpg);
     min-height: 363px;
     background-size: cover;
   }

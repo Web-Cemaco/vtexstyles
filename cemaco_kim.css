@@ -105,6 +105,10 @@ charset=utf-8
   margin-bottom: 2%;
 }
 
+.br-no-mobile {
+  display: block;
+}
+
 /*Estilos para la landing de PREVENCION */
 .prevencion .desk img {
   width: 100%;
@@ -450,11 +454,11 @@ charset=utf-8
 }
 .sherwin .portadas .titular {
   position: absolute;
-  margin: 3% 0 0 1%;
+  margin: 1% 0 0 1%;
 }
 .sherwin .portadas .titular h2 {
   color: #fff;
-  font-size: 48px;
+  font-size: 60px;
 }
 .sherwin .categorias .grid {
   display: grid;
@@ -533,7 +537,17 @@ charset=utf-8
 .sherwinwilliams h1.category-name {
   display: none;
 }
-
+.sherwin .banner-sherwin {
+  background-image: url("https://sfo2.digitaloceanspaces.com/cemacogt/vtex/2021/img/sherwinwilliams/banner032021.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 500px;
+  padding: 8% 0 0 7%;
+}
+.sherwin .banner-sherwin h1 {
+  color: #ffffff;
+  font-size: 3.5rem;
+}
 /* - - - - - - - - - - - - - - - - - - - - - - R E S P O N S I V E - - - - - - - - - - - - - - - - - - - - - - - -*/
 
 @media (max-width: 1690px) {
@@ -604,6 +618,14 @@ charset=utf-8
   }
   .sostenibilidad p {
     font-size: 20px;
+  }
+  .sherwin .portadas .titular {
+    position: absolute;
+    margin: 1% 0 0 1%;
+  }
+  .sherwin .portadas .titular h2 {
+    color: #fff;
+    font-size: 50px;
   }
 }
 @media (max-width: 1366px) {
@@ -758,6 +780,11 @@ charset=utf-8
   .sostenibilidad .descripcion h5 {
     padding: 18% 0 2% 0;
   }
+
+  .sherwin .portadas .titular h2 {
+    color: #fff;
+    font-size: 40px;
+  }
 }
 @media (max-width: 880px) {
   /*responsivo landing sostenibilidad*/
@@ -793,7 +820,7 @@ charset=utf-8
   }
   /*responsivo landing de sherwin*/
   .sherwin .portadas .titular h2 {
-    font-size: 36px;
+    font-size: 30px;
   }
   .sherwin .categorias .grid-item p {
     font-size: 13px;
@@ -805,6 +832,12 @@ charset=utf-8
   .sherwin .tiendas section span {
     margin: 1% auto 4%;
     width: 24%;
+  }
+}
+@media (max-width: 600px) {
+  .sherwin .portadas .titular h2 {
+    color: #fff;
+    font-size: 20px;
   }
 }
 @media (max-width: 480px) {
@@ -997,13 +1030,18 @@ charset=utf-8
     font-size: 33px;
   }
   .sherwin .portadas .caruselp .item:nth-child(2) .titular h2 {
-    color: #101e8e;
+    color: #ffffff;
   }
   .sherwin .portadas .caruselp .item:nth-child(2) .titular {
-    margin: 14% 0 0 1%;
+    margin: 9% 0 0 5%;
   }
   .sherwin .portadas .caruselp .item:nth-child(3) .titular {
-    margin: 6% 0 0 1%;
+    margin: 9% 0 0 1.5%;
+    text-align: center;
+  }
+  .sherwin .portadas .caruselp .item:nth-child(4) .titular {
+    margin: 9% 0 0 2.5%;
+    text-align: center;
   }
   .sherwin .categorias .grid-item p {
     font-size: 12px;
@@ -1018,7 +1056,8 @@ charset=utf-8
   }
   /*responsivo landing de sherwin*/
   .sherwin .portadas .caruselp .item:nth-child(2) .titular {
-    margin: 13.3% 0 0 1%;
+    margin: 9% 0 0 4%;
+    text-align: center;
   }
   .sherwin .htmpintura .col-lg-6:nth-child(4) aside.titulo h4 {
     width: 47%;
@@ -1053,5 +1092,18 @@ charset=utf-8
   }
   .sherwin .portadas .caruselp .item:nth-child(2) .titular h2 {
     font-size: 27px;
+  }
+  .sherwin .portadas .titular h2 {
+    color: #fff;
+    font-size: 25px;
+  }
+  .sherwin .portadas .caruselp .item:nth-child(3) .titular {
+    margin: 9% 0 0 3%;
+  }
+  .sherwin .portadas .caruselp .item:nth-child(4) .titular {
+    margin: 9% 0 0 3.5%;
+  }
+  .br-no-mobile {
+    display: none;
   }
 }
