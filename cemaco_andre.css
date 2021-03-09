@@ -1207,6 +1207,7 @@ body{
 .horario .telefono {
   display: block;
   text-align: right;
+  width: 120%;
 }
 
 /* .horario-jugueton,
