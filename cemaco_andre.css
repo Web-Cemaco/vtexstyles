@@ -1748,6 +1748,10 @@ body{
     width: 100%;
   }
 
+  .direccion-mobile {
+    height: auto;
+  }
+
   .titulo-encabezado {
     display: flex;
     justify-content: space-between;
