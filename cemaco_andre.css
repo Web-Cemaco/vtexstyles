@@ -916,7 +916,7 @@ body{
     font-size: 27px;
   }
   #height-mobile {
-    margin: auto;
+    height: auto;
   }
 }
 
