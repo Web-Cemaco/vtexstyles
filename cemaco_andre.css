@@ -915,6 +915,9 @@ body{
   #txt-title-proyectos {
     font-size: 27px;
   }
+  #height-mobile {
+    margin: auto;
+  }
 }
 
 @media screen and (min-width: 765px) and (max-width: 1000px) {
