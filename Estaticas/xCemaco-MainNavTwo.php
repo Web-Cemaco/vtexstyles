@@ -1269,11 +1269,12 @@
                                 <li class="nav-item--level-3"><a href="/electrodomesticos/aspiradoras-y-limpiadoras/limpiadoras">Limpiadoras</a></li>
                                 <li class="nav-item--level-3"><a href="/electrodomesticos/otros-electrodomesticos/maquina-de-coser">Máquinas De Coser</a></li>
                                 <li class="nav-item--level-3"><a href="/electrodomesticos/limpieza-y-lavanderia/planchas-de-ropa">Planchas De Ropa</a></li>
-                                <li class="nav-item--level-3"><a href="/electrodomesticos/aspiradoras-y-limpiadoras/pulidoras">Pulidoras</a></li>
+                                <li class="nav-item--level-3"><a href="/electrodomesticos/pulidoras">Pulidoras</a></li>
                             </ul>
                         </li>
                         <li class="nav-item--level-2"><a href="/electrodomesticos/linea-blanca" class="nav-accordion__trigger">Línea Blanca</a>
                             <ul class="nav-list--level-3 nav-accordion__content">
+                                <li class="nav-item--level-3"><a href="/electrodomesticos/linea-blanca/campanas-de-extraccion">Administración De Agua</a></li>
                                 <li class="nav-item--level-3"><a href="/electrodomesticos/linea-blanca/campanas-de-extraccion">Campanas De Extracción</a></li>
                                 <li class="nav-item--level-3"><a href="/electrodomesticos/linea-blanca/congeladores">Congeladores</a></li>
                                 <li class="nav-item--level-3"><a href="/electrodomesticos/linea-blanca/estufas">Estufas</a></li>
