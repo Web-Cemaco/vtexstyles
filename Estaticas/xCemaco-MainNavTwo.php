@@ -9,6 +9,9 @@
             </a>
             <ul class="re-ul-principal nav-list--level-1">
                 <li class="nav-item--level-1">
+                    <a href="/todoenferreteria" class="nav-accordion__trigger">TODO en ferretería</a>
+                </li>
+                <li class="nav-item--level-1">
                     <a href="/c-acabados" class="nav-accordion__trigger">Acabados</a>
                     <ul class="nav-list--level-2 nav-accordion__content">
                         <li class="nav-item--level-2">
@@ -68,7 +71,7 @@
                             <a href="/c-acabados">Ver todo ></a>
                         </li>
                         <li class="nav-item--image">
-                            <a href="/c-acabados">
+                            <a href="/">
                                 <img src="/arquivos/images_submenu-acabados.jpg"class="nav-image" />
                             </a>
                         </li>
@@ -319,7 +322,7 @@
                             <a href="/c-autos-y-motos">Ver todo ></a>
                         </li>
                         <li class="nav-item--image">
-                            <a href="/c-autos-y-motos">
+                            <a href="/">
                                 <img src="/arquivos/images_submenu-autos-y-motos.jpg"class="nav-image" />
                             </a>
                         </li>
@@ -418,7 +421,7 @@
                             <a href="/c-banos">Ver todo ></a>
                         </li>
                         <li class="nav-item--image">
-                            <a href="/c-banos">
+                            <a href="/">
                                 <img src="/arquivos/images_submenu-banos.jpg"class="nav-image" />
                             </a>
                         </li>
@@ -572,7 +575,7 @@
                             <a href="/c-bebes">Ver todo ></a>
                         </li>
                         <li class="nav-item--image">
-                            <a href="/c-bebes">
+                            <a href="/">
                                 <img src="/arquivos/images_submenu-bebes.jpg"class="nav-image" />
                             </a>
                         </li>
@@ -692,7 +695,7 @@
                             <a href="/c-cocina-y-mesa">Ver todo ></a>
                         </li>
                         <li class="nav-item--image">
-                            <a href="/c-cocina-y-mesa">
+                            <a href="/">
                                 <img src="/arquivos/images_submenu-cocina.jpg"class="nav-image" />
                             </a>
                         </li>
@@ -770,7 +773,7 @@
                         <a href="/c-cortinas-alfombras-y-pisos">Ver todo ></a>
                     </li>
                     <li class="nav-item--image">
-                        <a href="/c-cortinas-alfombras-y-pisos">
+                        <a href="/">
                             <img src="/arquivos/images_submenu-cortinas.jpg"class="nav-image" />
                         </a>
                     </li>
@@ -910,7 +913,7 @@
                             <a href="/c-cuidado-personal-y-bienestar">Ver todo ></a>
                         </li>
                         <li class="nav-item--image">
-                            <a href="/c-cuidado-personal-y-bienestar">
+                            <a href="/">
                                 <img src="/arquivos/images_submenu-cuidado-personal.jpg"class="nav-image" />
                             </a>
                         </li>
@@ -1041,7 +1044,7 @@
                             <a href="/c-decoracion">Ver todo ></a>
                         </li>
                         <li class="nav-item--image">
-                            <a href="/c-decoracion">
+                            <a href="/">
                                 <img src="/arquivos/images_submenu-decoracion.jpg"class="nav-image" />
                             </a>
                         </li>
@@ -1068,10 +1071,10 @@
                         <li class="nav-item--level-2"><a href="/muebles/muebles-de-dormitorio?PS=12" class="nav-accordion__trigger">Muebles</a>
                             <ul class="nav-list--level-3 nav-accordion__content">
                                 <li class="nav-item--level-3"><a href="/muebles/muebles-de-dormitorio/armarios-y-gaveteros">Armarios y Gaveteros</a></li>
-                                <li class="nav-item--level-3"><a href="/muebles/muebles-de-dormitorio/baules">Baules</a></li>
+                                <!--li class="nav-item--level-3"><a href="/muebles/muebles-de-dormitorio/baules">Baules</a></li-->
                                 <li class="nav-item--level-3"><a href="/muebles/muebles-de-dormitorio/cabeceras">Cabeceras</a></li>
                                 <li class="nav-item--level-3"><a href="/muebles/muebles-de-dormitorio/closets">Closets</a></li>
-                                <li class="nav-item--level-3"><a href="/muebles/muebles-de-dormitorio/literas">Literas</a></li>
+                                <li class="nav-item--level-3"><a href="/muebles/muebles-de-dormitorio/camas?filter_indicator=Litera">Literas</a></li>
                                 <li class="nav-item--level-3"><a href="/muebles/muebles-de-dormitorio/mesas-de-noche">Mesas De Noche</a></li>
                             </ul>
                         </li>
@@ -1108,7 +1111,7 @@
                             <a href="/c-dormitorio">Ver todo ></a>
                         </li>
                         <li class="nav-item--image">
-                            <a href="/c-dormitorio">
+                            <a href="/">
                                 <img src="/arquivos/images_submenu-dormitorio.jpg"class="nav-image" />
                             </a>
                         </li>
@@ -1198,7 +1201,7 @@
                             <a href="/c-electricos">Ver todo ></a>
                         </li>
                         <li class="nav-item--image">
-                            <a href="/c-electricos">
+                            <a href="/">
                                 <img src="/arquivos/images_submenu-electricos.jpg"class="nav-image" />
                             </a>
                         </li>
@@ -1286,7 +1289,7 @@
                             <a href="/c-electrodomesticos-y-linea-blanca">Ver todo ></a>
                         </li>
                         <li class="nav-item--image">
-                            <a href="/c-electrodomesticos-y-linea-blanca">
+                            <a href="/">
                                 <img src="/arquivos/images_submenu-electrodomesticos.jpg"class="nav-image" />
                             </a>
                         </li>
@@ -1391,7 +1394,7 @@
                             <a href="/c-ferreteria">Ver todo ></a>
                         </li>
                         <li class="nav-item--image">
-                            <a href="/c-ferreteria">
+                            <a href="/">
                                 <img src="/arquivos/images_submenu-ferreteria.jpg"class="nav-image" />
                             </a>
                         </li>
@@ -1431,7 +1434,7 @@
                             <a href="/c-guatemalanuestra">Ver todo ></a>
                         </li>
                         <li class="nav-item--image">
-                            <a href="/c-guatemalanuestra">
+                            <a href="/">
                                 <img src="/arquivos/images_submenu-guatemala.jpg"class="nav-image" />
                             </a>
                         </li>
@@ -1559,7 +1562,7 @@
                             <a href="/c-herramientas">Ver todo ></a>
                         </li>
                         <li class="nav-item--image">
-                            <a href="/c-herramientas">
+                            <a href="/">
                                 <img src="/arquivos/images_submenu-herramientas.jpg"class="nav-image" />
                             </a>
                         </li>
@@ -1646,7 +1649,7 @@
                             <a href="/c-iluminacion">Ver todo ></a>
                         </li>
                         <li class="nav-item--image">
-                            <a href="/c-iluminacion">
+                            <a href="/">
                                 <img src="/arquivos/images_submenu-iluminacion.jpg"class="nav-image" />
                             </a>
                         </li>
@@ -1780,7 +1783,7 @@
                             <a href="/c-juguetes">Ver todo ></a>
                         </li>
                         <li class="nav-item--image">
-                            <a href="/c-juguetes">
+                            <a href="/">
                                 <img src="/arquivos/images_submenu-juguetes.jpg"class="nav-image" />
                             </a>
                         </li>
@@ -1893,7 +1896,7 @@
                             <a href="/c-limpieza-y-lavanderia">Ver todo ></a>
                         </li>
                         <li class="nav-item--image">
-                            <a href="/c-limpieza-y-lavanderia">
+                            <a href="/">
                                 <img src="/arquivos/images_submenu-limpieza-lavanderia.jpg"class="nav-image" />
                             </a>
                         </li>
@@ -2028,7 +2031,7 @@
                             <a href="/c-materiales-de-construccion">Ver todo ></a>
                         </li>
                         <li class="nav-item--image">
-                            <a href="/c-materiales-de-construccion">
+                            <a href="/">
                                 <img src="/arquivos/images_submenu-materiales-c.jpg"class="nav-image" />
                             </a>
                         </li>
@@ -2092,7 +2095,7 @@
                             <a href="/c-mascotas">Ver todo ></a>
                         </li>
                         <li class="nav-item--image">
-                            <a href="/c-mascotas">
+                            <a href="/">
                                 <img src="/arquivos/images_submenu-mascotas.jpg"class="nav-image" />
                             </a>
                         </li>
@@ -2122,7 +2125,7 @@
                           <li class="nav-item--level-3"><a href="/muebles/muebles-de-dormitorio/cabeceras">Cabeceras</a></li>
                           <li class="nav-item--level-3"><a href="/muebles/muebles-de-dormitorio/camas">Camas</a></li>
                           <li class="nav-item--level-3"><a href="/muebles/muebles-de-dormitorio/closets">Closets</a></li>
-                          <li class="nav-item--level-3"><a href="">Literas</a></li>
+                          <li class="nav-item--level-3"><a href="/muebles/muebles-de-dormitorio/camas?filter_indicator=Litera">Literas</a></li>
                           <li class="nav-item--level-3"><a href="/muebles/muebles-de-dormitorio/mesas-de-noche">Mesas De Noche</a></li>
                           <li class="nav-item--level-3"><a href="/muebles/muebles-de-dormitorio/percheros">Perchero</a></li>
                           </ul>
@@ -2188,7 +2191,7 @@
                       <li class="nav-item--level-2 visible-xs visible-sm">
                           <a href="/c-muebles">Ver todo ></a>
                       </li>
-                      <li class="nav-item--image"> <a href="/c-muebles"> <img src="/arquivos/images_submenu-muebles.jpg"class="nav-image" /> </a> </li>
+                      <li class="nav-item--image"> <a href="/"> <img src="/arquivos/images_submenu-muebles.jpg"class="nav-image" /> </a> </li>
                     </ul>
                 </li>
                 <li class="nav-item--level-1">
@@ -2284,7 +2287,7 @@
                         </li>
                     </ul>
                 </li>
-                <li class="nav-item--level-1">
+                <!--li class="nav-item--level-1">
                     <a href="/c-navidad" class="nav-accordion__trigger">Navidad</a>
                     <ul class="nav-list--level-2 nav-accordion__content">
                         <li class="nav-item--level-2">
@@ -2388,7 +2391,7 @@
                             </a>
                         </li>
                     </ul>
-                </li>
+                </li-->
                 <li class="nav-item--level-1">
                     <a href="/c-organizacion" class="nav-accordion__trigger">Organización</a>
                     <ul class="nav-list--level-2 nav-accordion__content">
