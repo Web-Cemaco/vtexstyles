@@ -6,6 +6,9 @@
   flex-direction: column;
   min-height: 33px;
 }
+.product-item__action > .js-buy-plp {
+  bottom: 13px;
+}
 /*
 * Media queries
 */
