@@ -1436,7 +1436,7 @@
                         </li>
                         <li class="nav-item--image">
                             <a href="/c-guatemalanuestra">
-                                <img src="/arquivos/images_submenu-guatemala.jpg"class="nav-image" />
+                                <img src="https://sfo2.digitaloceanspaces.com/cemacogt/cemaco/2021/menu-departamentos/images_submenu-guatemala-nuestra.jpg"class="nav-image" />
                             </a>
                         </li>
                     </ul>
